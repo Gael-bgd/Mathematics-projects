@@ -36,7 +36,7 @@ The whole theoretical and practical aspect of mathematics was exciting, learning
 
 
 
-#French version
+#####################################French version#####################################
 
 J'ai étudié différents projets en mathématiques pendant ma licence à l'Université Paris Descartes 5. 
 Ces projets étaient gérés par des chercheurs qui nous ont aidés, moi et mon équipe, à faire nos recherches.
