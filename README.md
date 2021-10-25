@@ -69,5 +69,5 @@ Puis l'étude algébrique de l'ensemble de ces points nous a servi pour démontr
 de la duplication du cube et de la trisection de l’angle.
 
 Ce projet était super intéressant, il prenait en compte des concepts très abstraits et faisait appel à notre bonne organisation et nos capacités d'adaptation.
-J'ai aimé travaillé en équipe sur ce sujet, cela m'a conforté dans l'idée que j'aime prendre le leadership d'une équipe. 
+J'ai aimé travailler en équipe sur ce sujet, cela m'a conforté dans l'idée que j'aime prendre le leadership d'une équipe. 
 Tout l'aspect théorique et pratique des mathématiques était passionnant, apprendre de nouvelles choses est quelque chose que j'aime.
