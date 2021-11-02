@@ -52,7 +52,7 @@ Nous avons choisi 5 méthodes pour approximer PI que nous avons redémontré ent
 De plus, nous avons fourni des implémentations numériques de plusieurs méthode à l'aide du langage de programmation Caml, afin de comparer leur vitesse de convergence vers PI.
 Nous avons fait une analyse numérique de ces méthodes pour choisir celle qui fut le plus efficace des 5.
 
-J'ai beaucoup aimé ce projet au travers de l'aspect calculatoire mélangeant Suites, Séries et Intégrales nous permettant 
+J'ai beaucoup aimé ce projet gr l'aspect calculatoire mélangeant Suites, Séries et Intégrales nous permettant 
 d'appliquer concrètement notre savoir faire sur un sujet complexe sans fil directeur.
 Travailler avec un chercheur est très stimulant et les échanges sont constructifs et passionnant.
 
