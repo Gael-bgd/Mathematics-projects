@@ -1,6 +1,6 @@
 # Mathematics-projects (french version below)
 
-I studied different projects in mathematics during my undergraduate degree at the University of Paris Descartes 5. 
+I studied different projects in mathematics during my undergraduate degree at the University in Paris. 
 These projects were managed by researchers who helped me and my team to do our research.
 
 Here are instructions and explanations about both of my 2 projects.
@@ -38,7 +38,7 @@ The whole theoretical and practical aspect of mathematics was exciting, learning
 
 #####################################French version#####################################
 
-J'ai étudié différents projets en mathématiques pendant ma licence à l'Université Paris Descartes 5. 
+J'ai étudié différents projets en mathématiques pendant ma licence à l'Université à Paris. 
 Ces projets étaient gérés par des chercheurs qui nous ont aidés, moi et mon équipe, à faire nos recherches.
 
 Voici les instructions et explications sur mes 2 projets.
